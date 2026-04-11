@@ -19,8 +19,15 @@ def get_sheets_client():
     env_creds = os.getenv("GOOGLE_CREDENTIALS")
     if env_creds:
         try:
-            # Handle potential base64 or escaped newlines
-            creds_dict = json.loads(env_creds.replace('\\n', '\n'))
+            # Handle potential literal newlines or escaped newlines in the string
+            sanitized_creds = env_creds.strip()
+            # If the user pasted it with literal newlines, we need to ensure it's valid JSON
+            creds_dict = json.loads(sanitized_creds, strict=False)
+            
+            # Ensure the private key has actual newlines, not literal '\n' strings
+            if 'private_key' in creds_dict:
+                creds_dict['private_key'] = creds_dict['private_key'].replace('\\n', '\n')
+                
             creds = ServiceAccountCredentials.from_json_keyfile_dict(creds_dict, scope)
             return gspread.authorize(creds)
         except Exception as e:
