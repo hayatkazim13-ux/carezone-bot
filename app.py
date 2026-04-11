@@ -4,7 +4,8 @@ import requests
 import json
 import threading
 import time
-import google.generativeai as genai
+from google import genai
+from google.genai import types
 from dotenv import load_dotenv
 
 # Import our custom modules
@@ -33,8 +34,8 @@ ADMIN_PHONE_NUMBER = os.getenv("ADMIN_PHONE_NUMBER")
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 # --- INITIALIZE GEMINI ---
-genai.configure(api_key=GEMINI_API_KEY)
-model = genai.GenerativeModel('gemini-1.5-flash')
+client = genai.Client(api_key=GEMINI_API_KEY)
+GENAI_MODEL = 'gemini-1.5-flash'
 
 # --- LIVE PRODUCT CACHE ---
 live_products = []
@@ -175,7 +176,7 @@ def handle_messages():
                             logging.error(f"CRM Logging failed: {e}")
                     
                     # Store as structured part for SDK compatibility
-                    chat_memory[from_number].append({"role": "user", "parts": [text_body]})
+                    chat_memory[from_number].append({"role": "user", "parts": [{"text": text_body}]})
                     
                     # Keep memory concise (last 10 interactions)
                     if len(chat_memory[from_number]) > 10:
@@ -198,21 +199,26 @@ def handle_messages():
 def generate_ai_response(from_number):
     try:
         # Create chat history for Gemini
-        history = []
-        for msg in chat_memory[from_number][:-1]: # All but the latest user msg
-            history.append(msg)
+        history = chat_memory[from_number][:-1] # All but the latest user msg
 
-        # Gemini 1.5 Flash doesn't support 'systemInstruction' inside the chat constructor directly in all SDK versions,
-        # so we pass it as the first message or use the dedicated property in the model init if supported.
-        # Since we initialized the model with 'gemini-1.5-flash', we can pass the system instruction.
+        # Prepend system instruction
+        system_instructions = get_system_instruction()
         
-        chat = model.start_chat(history=history)
+        # User message
+        user_msg_text = chat_memory[from_number][-1]['parts'][0]['text']
         
-        # Prepend system instruction for every response to ensure strict behavior
-        user_msg_text = chat_memory[from_number][-1]['parts'][0]
-        full_prompt = f"{get_system_instruction()}\n\nUser Message: {user_msg_text}"
+        # In google-genai, we use client.models.generate_content
+        # We can pass history and system instruction in the config
+        response = client.models.generate_content(
+            model=GENAI_MODEL,
+            config=types.GenerateContentConfig(
+                system_instruction=system_instructions,
+                # We can also pass history if needed, but for simplicity with this SDK,
+                # we can just send the whole prompt or manage chat session
+            ),
+            contents=history + [{"role": "user", "parts": [{"text": user_msg_text}]}]
+        )
         
-        response = chat.send_message(full_prompt)
         reply = response.text
 
         # Handle Triggers
@@ -229,7 +235,7 @@ def generate_ai_response(from_number):
                 reply = "Thanks for your purchase! Your order has been securely placed."
 
         # Add model reply to memory
-        chat_memory[from_number].append({"role": "model", "parts": [reply]})
+        chat_memory[from_number].append({"role": "model", "parts": [{"text": reply}]})
         return reply
 
     except Exception as e:
