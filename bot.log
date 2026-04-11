@@ -1,0 +1,2177 @@
+2026-04-10 22:41:39,852 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:41:39,864 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.48:8080
+2026-04-10 22:41:39,864 INFO: [33mPress CTRL+C to quit[0m
+2026-04-10 22:41:40,599 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-10 22:41:40,791 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:41:41,645 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-10 22:41:41,833 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:41:42,691 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-10 22:41:42,706 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:41:43,523 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-10 22:43:19,738 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:43:19,742 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.48:8080
+2026-04-10 22:43:19,743 INFO: [33mPress CTRL+C to quit[0m
+2026-04-10 22:43:20,585 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-10 22:43:20,956 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:43:21,783 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-10 22:43:22,012 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:43:22,875 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-10 22:43:22,901 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:43:23,722 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-10 22:47:47,096 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:47:47,101 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.48:8080
+2026-04-10 22:47:47,101 INFO: [33mPress CTRL+C to quit[0m
+2026-04-10 22:47:48,183 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-10 22:47:48,391 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:47:49,969 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-10 22:47:50,201 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:47:51,808 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-10 22:47:51,829 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:47:53,391 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-10 22:49:25,047 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:49:25,106 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.48:8080
+2026-04-10 22:49:25,106 INFO: [33mPress CTRL+C to quit[0m
+2026-04-10 22:49:25,106 INFO:  * Restarting with stat
+2026-04-10 22:49:26,087 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-10 22:49:26,291 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:49:26,672 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:49:26,707 WARNING:  * Debugger is active!
+2026-04-10 22:49:26,707 INFO:  * Debugger PIN: 911-136-638
+2026-04-10 22:49:27,452 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-10 22:49:27,633 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:49:27,651 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-10 22:49:27,851 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:49:28,484 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-10 22:49:28,674 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:49:28,729 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-10 22:49:28,751 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:49:29,541 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-10 22:49:29,548 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-10 22:49:29,558 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:49:30,429 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-10 22:51:02,798 INFO: Webhook received: whatsapp_business_account
+2026-04-10 22:51:02,798 INFO: [RECV] Message from 923991234567: Hi, I want to buy something.
+2026-04-10 22:51:03,141 DEBUG: Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2026-04-10 22:51:03,156 DEBUG: Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2026-04-10 22:51:04,835 DEBUG: https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 400 None
+2026-04-10 22:51:06,565 INFO: 127.0.0.1 - - [10/Apr/2026 22:51:06] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-04-10 22:51:11,588 INFO: Webhook received: whatsapp_business_account
+2026-04-10 22:51:11,591 INFO: [RECV] Message from 923991234567: I need some 'Dragon-X Ultra Vitamin' which is very rare.
+2026-04-10 22:51:12,157 INFO: 127.0.0.1 - - [10/Apr/2026 22:51:12] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-04-10 22:51:17,184 INFO: Webhook received: whatsapp_business_account
+2026-04-10 22:51:17,184 INFO: [RECV] Message from 923991234567: I want 5 packs.
+2026-04-10 22:51:17,798 INFO: 127.0.0.1 - - [10/Apr/2026 22:51:17] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-04-10 22:51:22,815 INFO: Webhook received: whatsapp_business_account
+2026-04-10 22:51:22,815 INFO: [RECV] Message from 923991234567: My name is Kazim, Peshawar, Street 5 House 1, phone 03470890549. Please confirm.
+2026-04-10 22:51:23,351 INFO: 127.0.0.1 - - [10/Apr/2026 22:51:23] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-04-10 22:51:28,365 INFO: Webhook received: whatsapp_business_account
+2026-04-10 22:51:28,365 INFO: [RECV] Message from 923991234567: Yes, confirm it.
+2026-04-10 22:51:28,941 INFO: 127.0.0.1 - - [10/Apr/2026 22:51:28] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-04-10 22:51:59,984 INFO:  * Detected change in 'c:\\Users\\PMLS\\Carezone\\whatsapp-assistant-python\\app.py', reloading
+2026-04-10 22:52:02,233 INFO:  * Restarting with stat
+2026-04-10 22:52:03,738 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:52:03,756 WARNING:  * Debugger is active!
+2026-04-10 22:52:03,756 INFO:  * Debugger PIN: 911-136-638
+2026-04-10 22:52:04,741 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-10 22:52:05,020 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:52:05,972 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-10 22:52:06,266 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:52:07,002 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-10 22:52:07,019 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:52:07,975 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-10 22:52:08,795 INFO:  * Detected change in 'c:\\Users\\PMLS\\Carezone\\whatsapp-assistant-python\\google_sheets.py', reloading
+2026-04-10 22:52:09,079 INFO:  * Restarting with stat
+2026-04-10 22:52:10,696 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:52:10,738 WARNING:  * Debugger is active!
+2026-04-10 22:52:10,744 INFO:  * Debugger PIN: 911-136-638
+2026-04-10 22:52:11,441 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-10 22:52:11,716 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:52:12,595 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-10 22:52:12,924 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:52:13,841 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-10 22:52:13,862 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:52:14,637 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-10 22:52:57,403 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:52:57,425 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.48:8080
+2026-04-10 22:52:57,425 INFO: [33mPress CTRL+C to quit[0m
+2026-04-10 22:52:57,429 INFO:  * Restarting with stat
+2026-04-10 22:52:58,194 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-10 22:52:58,408 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:52:58,965 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:52:58,987 WARNING:  * Debugger is active!
+2026-04-10 22:52:58,991 INFO:  * Debugger PIN: 911-136-638
+2026-04-10 22:52:59,200 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-10 22:52:59,412 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:52:59,841 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-10 22:53:00,037 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:53:00,162 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-10 22:53:00,183 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:53:00,983 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-10 22:53:01,041 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-10 22:53:01,202 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:53:02,072 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-10 22:53:02,088 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:53:02,908 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-10 22:53:27,691 INFO: Webhook received: whatsapp_business_account
+2026-04-10 22:53:27,691 INFO: [RECV] Message from 923991234567: Hi, I want to buy something.
+2026-04-10 22:53:27,744 DEBUG: Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2026-04-10 22:53:27,750 DEBUG: Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2026-04-10 22:53:28,706 DEBUG: https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 400 None
+2026-04-10 22:53:29,672 INFO: 127.0.0.1 - - [10/Apr/2026 22:53:29] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-04-10 22:53:34,698 INFO: Webhook received: whatsapp_business_account
+2026-04-10 22:53:34,698 INFO: [RECV] Message from 923991234567: I need some 'Dragon-X Ultra Vitamin' which is very rare.
+2026-04-10 22:53:35,222 INFO: 127.0.0.1 - - [10/Apr/2026 22:53:35] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-04-10 22:53:40,244 INFO: Webhook received: whatsapp_business_account
+2026-04-10 22:53:40,244 INFO: [RECV] Message from 923991234567: I want 5 packs.
+2026-04-10 22:53:40,815 INFO: 127.0.0.1 - - [10/Apr/2026 22:53:40] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-04-10 22:53:45,845 INFO: Webhook received: whatsapp_business_account
+2026-04-10 22:53:45,845 INFO: [RECV] Message from 923991234567: My name is Kazim, Peshawar, Street 5 House 1, phone 03470890549. Please confirm.
+2026-04-10 22:53:46,441 INFO: 127.0.0.1 - - [10/Apr/2026 22:53:46] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-04-10 22:53:51,465 INFO: Webhook received: whatsapp_business_account
+2026-04-10 22:53:51,465 INFO: [RECV] Message from 923991234567: Yes, confirm it.
+2026-04-10 22:53:51,971 INFO: 127.0.0.1 - - [10/Apr/2026 22:53:51] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-04-10 22:54:58,895 INFO:  * Detected change in 'c:\\Users\\PMLS\\Carezone\\whatsapp-assistant-python\\app.py', reloading
+2026-04-10 22:55:01,424 INFO:  * Restarting with stat
+2026-04-10 22:55:04,256 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:55:04,300 WARNING:  * Debugger is active!
+2026-04-10 22:55:04,302 INFO:  * Debugger PIN: 911-136-638
+2026-04-10 22:55:05,465 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-10 22:55:05,698 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:55:06,935 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-10 22:55:07,144 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:55:08,349 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-10 22:55:08,373 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:55:09,954 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-10 22:55:16,374 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:55:16,425 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.48:8080
+2026-04-10 22:55:16,425 INFO: [33mPress CTRL+C to quit[0m
+2026-04-10 22:55:16,430 INFO:  * Restarting with stat
+2026-04-10 22:55:17,515 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-10 22:55:17,729 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:55:18,825 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-10 22:55:19,069 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:55:19,256 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:55:19,287 WARNING:  * Debugger is active!
+2026-04-10 22:55:19,291 INFO:  * Debugger PIN: 911-136-638
+2026-04-10 22:55:20,395 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-10 22:55:20,413 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:55:20,475 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-10 22:55:20,706 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:55:21,710 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-10 22:55:21,994 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-10 22:55:22,183 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:55:23,402 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-10 22:55:23,429 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:55:25,034 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-10 22:57:04,284 INFO: Webhook received: whatsapp_business_account
+2026-04-10 22:57:04,284 INFO: [RECV] Message from 923991234567: Hi, I want to buy something.
+2026-04-10 22:57:04,337 DEBUG: Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2026-04-10 22:57:04,341 DEBUG: Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2026-04-10 22:57:05,283 DEBUG: https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 400 None
+2026-04-10 22:57:06,221 ERROR: Global Logic Error in handle_messages
+Traceback (most recent call last):
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\grpc_helpers.py", line 55, in error_remapped_callable
+    return callable_(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_interceptor.py", line 276, in __call__
+    response, ignored_call = self._with_call(
+                             ^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_interceptor.py", line 328, in _with_call
+    call = self._interceptor.intercept_unary_unary(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\transports\grpc.py", line 88, in intercept_unary_unary
+    result = response.result()
+             ^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_channel.py", line 438, in result
+    raise self
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_interceptor.py", line 314, in continuation
+    response, call = self._thunk(new_method).with_call(
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_channel.py", line 1173, in with_call
+    return _end_unary_response_blocking(state, call, True, None)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_channel.py", line 990, in _end_unary_response_blocking
+    raise _InactiveRpcError(state)  # pytype: disable=not-instantiable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+grpc._channel._InactiveRpcError: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.NOT_FOUND
+	details = "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:142.250.203.170:443 {grpc_status:5, grpc_message:"models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."}"
+>
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\PMLS\Carezone\whatsapp-assistant-python\app.py", line 214, in generate_ai_response
+    response = chat.send_message(full_prompt)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\generativeai\generative_models.py", line 578, in send_message
+    response = self.model.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\generativeai\generative_models.py", line 331, in generate_content
+    response = self._client.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 835, in generate_content
+    response = rpc(
+               ^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\gapic_v1\method.py", line 128, in __call__
+    return wrapped_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+           ^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+                 ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_base.py", line 216, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+             ^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\grpc_helpers.py", line 57, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.NotFound: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\PMLS\Carezone\whatsapp-assistant-python\email_notifier.py", line 67, in send_error_alert
+    server = smtplib.SMTP('smtp.gmail.com', 587)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\smtplib.py", line 255, in __init__
+    (code, msg) = self.connect(host, port)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\smtplib.py", line 341, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\smtplib.py", line 312, in _get_socket
+    return socket.create_connection((host, port), timeout,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\socket.py", line 851, in create_connection
+    raise exceptions[0]
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\socket.py", line 836, in create_connection
+    sock.connect(sa)
+PermissionError: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\PMLS\Carezone\whatsapp-assistant-python\app.py", line 184, in handle_messages
+    response_text = generate_ai_response(from_number)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PMLS\Carezone\whatsapp-assistant-python\app.py", line 237, in generate_ai_response
+    send_error_alert(error_msg)
+  File "c:\Users\PMLS\Carezone\whatsapp-assistant-python\email_notifier.py", line 73, in send_error_alert
+    print(f"\u274c Failed to send Error Email notification: {e}")
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined>
+2026-04-10 22:57:06,233 INFO: 127.0.0.1 - - [10/Apr/2026 22:57:06] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-04-10 22:57:11,322 INFO: Webhook received: whatsapp_business_account
+2026-04-10 22:57:11,322 INFO: [RECV] Message from 923991234567: I need some 'Dragon-X Ultra Vitamin' which is very rare.
+2026-04-10 22:57:11,841 ERROR: Global Logic Error in handle_messages
+Traceback (most recent call last):
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\grpc_helpers.py", line 55, in error_remapped_callable
+    return callable_(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_interceptor.py", line 276, in __call__
+    response, ignored_call = self._with_call(
+                             ^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_interceptor.py", line 328, in _with_call
+    call = self._interceptor.intercept_unary_unary(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\transports\grpc.py", line 88, in intercept_unary_unary
+    result = response.result()
+             ^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_channel.py", line 438, in result
+    raise self
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_interceptor.py", line 314, in continuation
+    response, call = self._thunk(new_method).with_call(
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_channel.py", line 1173, in with_call
+    return _end_unary_response_blocking(state, call, True, None)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_channel.py", line 990, in _end_unary_response_blocking
+    raise _InactiveRpcError(state)  # pytype: disable=not-instantiable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+grpc._channel._InactiveRpcError: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.NOT_FOUND
+	details = "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:142.250.203.170:443 {grpc_message:"models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.", grpc_status:5}"
+>
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\PMLS\Carezone\whatsapp-assistant-python\app.py", line 214, in generate_ai_response
+    response = chat.send_message(full_prompt)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\generativeai\generative_models.py", line 578, in send_message
+    response = self.model.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\generativeai\generative_models.py", line 331, in generate_content
+    response = self._client.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 835, in generate_content
+    response = rpc(
+               ^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\gapic_v1\method.py", line 128, in __call__
+    return wrapped_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+           ^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+                 ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_base.py", line 216, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+             ^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\grpc_helpers.py", line 57, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.NotFound: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\PMLS\Carezone\whatsapp-assistant-python\email_notifier.py", line 67, in send_error_alert
+    server = smtplib.SMTP('smtp.gmail.com', 587)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\smtplib.py", line 255, in __init__
+    (code, msg) = self.connect(host, port)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\smtplib.py", line 341, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\smtplib.py", line 312, in _get_socket
+    return socket.create_connection((host, port), timeout,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\socket.py", line 851, in create_connection
+    raise exceptions[0]
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\socket.py", line 836, in create_connection
+    sock.connect(sa)
+PermissionError: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\PMLS\Carezone\whatsapp-assistant-python\app.py", line 184, in handle_messages
+    response_text = generate_ai_response(from_number)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PMLS\Carezone\whatsapp-assistant-python\app.py", line 237, in generate_ai_response
+    send_error_alert(error_msg)
+  File "c:\Users\PMLS\Carezone\whatsapp-assistant-python\email_notifier.py", line 73, in send_error_alert
+    print(f"\u274c Failed to send Error Email notification: {e}")
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined>
+2026-04-10 22:57:11,844 INFO: 127.0.0.1 - - [10/Apr/2026 22:57:11] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-04-10 22:57:16,865 INFO: Webhook received: whatsapp_business_account
+2026-04-10 22:57:16,865 INFO: [RECV] Message from 923991234567: I want 5 packs.
+2026-04-10 22:57:17,370 ERROR: Global Logic Error in handle_messages
+Traceback (most recent call last):
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\grpc_helpers.py", line 55, in error_remapped_callable
+    return callable_(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_interceptor.py", line 276, in __call__
+    response, ignored_call = self._with_call(
+                             ^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_interceptor.py", line 328, in _with_call
+    call = self._interceptor.intercept_unary_unary(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\transports\grpc.py", line 88, in intercept_unary_unary
+    result = response.result()
+             ^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_channel.py", line 438, in result
+    raise self
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_interceptor.py", line 314, in continuation
+    response, call = self._thunk(new_method).with_call(
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_channel.py", line 1173, in with_call
+    return _end_unary_response_blocking(state, call, True, None)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_channel.py", line 990, in _end_unary_response_blocking
+    raise _InactiveRpcError(state)  # pytype: disable=not-instantiable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+grpc._channel._InactiveRpcError: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.NOT_FOUND
+	details = "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:142.250.203.170:443 {grpc_status:5, grpc_message:"models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."}"
+>
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\PMLS\Carezone\whatsapp-assistant-python\app.py", line 214, in generate_ai_response
+    response = chat.send_message(full_prompt)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\generativeai\generative_models.py", line 578, in send_message
+    response = self.model.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\generativeai\generative_models.py", line 331, in generate_content
+    response = self._client.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 835, in generate_content
+    response = rpc(
+               ^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\gapic_v1\method.py", line 128, in __call__
+    return wrapped_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+           ^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+                 ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_base.py", line 216, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+             ^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\grpc_helpers.py", line 57, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.NotFound: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\PMLS\Carezone\whatsapp-assistant-python\email_notifier.py", line 67, in send_error_alert
+    server = smtplib.SMTP('smtp.gmail.com', 587)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\smtplib.py", line 255, in __init__
+    (code, msg) = self.connect(host, port)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\smtplib.py", line 341, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\smtplib.py", line 312, in _get_socket
+    return socket.create_connection((host, port), timeout,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\socket.py", line 851, in create_connection
+    raise exceptions[0]
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\socket.py", line 836, in create_connection
+    sock.connect(sa)
+PermissionError: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\PMLS\Carezone\whatsapp-assistant-python\app.py", line 184, in handle_messages
+    response_text = generate_ai_response(from_number)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PMLS\Carezone\whatsapp-assistant-python\app.py", line 237, in generate_ai_response
+    send_error_alert(error_msg)
+  File "c:\Users\PMLS\Carezone\whatsapp-assistant-python\email_notifier.py", line 73, in send_error_alert
+    print(f"\u274c Failed to send Error Email notification: {e}")
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined>
+2026-04-10 22:57:17,375 INFO: 127.0.0.1 - - [10/Apr/2026 22:57:17] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-04-10 22:57:22,391 INFO: Webhook received: whatsapp_business_account
+2026-04-10 22:57:22,391 INFO: [RECV] Message from 923991234567: My name is Kazim, Peshawar, Street 5 House 1, phone 03470890549. Please confirm.
+2026-04-10 22:57:22,848 ERROR: Global Logic Error in handle_messages
+Traceback (most recent call last):
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\grpc_helpers.py", line 55, in error_remapped_callable
+    return callable_(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_interceptor.py", line 276, in __call__
+    response, ignored_call = self._with_call(
+                             ^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_interceptor.py", line 328, in _with_call
+    call = self._interceptor.intercept_unary_unary(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\transports\grpc.py", line 88, in intercept_unary_unary
+    result = response.result()
+             ^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_channel.py", line 438, in result
+    raise self
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_interceptor.py", line 314, in continuation
+    response, call = self._thunk(new_method).with_call(
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_channel.py", line 1173, in with_call
+    return _end_unary_response_blocking(state, call, True, None)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_channel.py", line 990, in _end_unary_response_blocking
+    raise _InactiveRpcError(state)  # pytype: disable=not-instantiable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+grpc._channel._InactiveRpcError: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.NOT_FOUND
+	details = "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:142.250.203.170:443 {grpc_message:"models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.", grpc_status:5}"
+>
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\PMLS\Carezone\whatsapp-assistant-python\app.py", line 214, in generate_ai_response
+    response = chat.send_message(full_prompt)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\generativeai\generative_models.py", line 578, in send_message
+    response = self.model.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\generativeai\generative_models.py", line 331, in generate_content
+    response = self._client.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 835, in generate_content
+    response = rpc(
+               ^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\gapic_v1\method.py", line 128, in __call__
+    return wrapped_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+           ^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+                 ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_base.py", line 216, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+             ^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\grpc_helpers.py", line 57, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.NotFound: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\PMLS\Carezone\whatsapp-assistant-python\email_notifier.py", line 67, in send_error_alert
+    server = smtplib.SMTP('smtp.gmail.com', 587)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\smtplib.py", line 255, in __init__
+    (code, msg) = self.connect(host, port)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\smtplib.py", line 341, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\smtplib.py", line 312, in _get_socket
+    return socket.create_connection((host, port), timeout,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\socket.py", line 851, in create_connection
+    raise exceptions[0]
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\socket.py", line 836, in create_connection
+    sock.connect(sa)
+PermissionError: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\PMLS\Carezone\whatsapp-assistant-python\app.py", line 184, in handle_messages
+    response_text = generate_ai_response(from_number)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PMLS\Carezone\whatsapp-assistant-python\app.py", line 237, in generate_ai_response
+    send_error_alert(error_msg)
+  File "c:\Users\PMLS\Carezone\whatsapp-assistant-python\email_notifier.py", line 73, in send_error_alert
+    print(f"\u274c Failed to send Error Email notification: {e}")
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined>
+2026-04-10 22:57:22,851 INFO: 127.0.0.1 - - [10/Apr/2026 22:57:22] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-04-10 22:57:27,875 INFO: Webhook received: whatsapp_business_account
+2026-04-10 22:57:27,875 INFO: [RECV] Message from 923991234567: Yes, confirm it.
+2026-04-10 22:57:28,356 ERROR: Global Logic Error in handle_messages
+Traceback (most recent call last):
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\grpc_helpers.py", line 55, in error_remapped_callable
+    return callable_(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_interceptor.py", line 276, in __call__
+    response, ignored_call = self._with_call(
+                             ^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_interceptor.py", line 328, in _with_call
+    call = self._interceptor.intercept_unary_unary(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\transports\grpc.py", line 88, in intercept_unary_unary
+    result = response.result()
+             ^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_channel.py", line 438, in result
+    raise self
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_interceptor.py", line 314, in continuation
+    response, call = self._thunk(new_method).with_call(
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_channel.py", line 1173, in with_call
+    return _end_unary_response_blocking(state, call, True, None)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_channel.py", line 990, in _end_unary_response_blocking
+    raise _InactiveRpcError(state)  # pytype: disable=not-instantiable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+grpc._channel._InactiveRpcError: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.NOT_FOUND
+	details = "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:142.250.203.170:443 {grpc_message:"models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.", grpc_status:5}"
+>
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\PMLS\Carezone\whatsapp-assistant-python\app.py", line 214, in generate_ai_response
+    response = chat.send_message(full_prompt)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\generativeai\generative_models.py", line 578, in send_message
+    response = self.model.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\generativeai\generative_models.py", line 331, in generate_content
+    response = self._client.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 835, in generate_content
+    response = rpc(
+               ^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\gapic_v1\method.py", line 128, in __call__
+    return wrapped_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+           ^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+                 ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_base.py", line 216, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+             ^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\grpc_helpers.py", line 57, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.NotFound: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\PMLS\Carezone\whatsapp-assistant-python\email_notifier.py", line 67, in send_error_alert
+    server = smtplib.SMTP('smtp.gmail.com', 587)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\smtplib.py", line 255, in __init__
+    (code, msg) = self.connect(host, port)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\smtplib.py", line 341, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\smtplib.py", line 312, in _get_socket
+    return socket.create_connection((host, port), timeout,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\socket.py", line 851, in create_connection
+    raise exceptions[0]
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\socket.py", line 836, in create_connection
+    sock.connect(sa)
+PermissionError: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\PMLS\Carezone\whatsapp-assistant-python\app.py", line 184, in handle_messages
+    response_text = generate_ai_response(from_number)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\PMLS\Carezone\whatsapp-assistant-python\app.py", line 237, in generate_ai_response
+    send_error_alert(error_msg)
+  File "c:\Users\PMLS\Carezone\whatsapp-assistant-python\email_notifier.py", line 73, in send_error_alert
+    print(f"\u274c Failed to send Error Email notification: {e}")
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined>
+2026-04-10 22:57:28,356 INFO: 127.0.0.1 - - [10/Apr/2026 22:57:28] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2026-04-10 22:57:58,448 INFO:  * Detected change in 'c:\\Users\\PMLS\\Carezone\\whatsapp-assistant-python\\app.py', reloading
+2026-04-10 22:58:00,698 INFO:  * Restarting with stat
+2026-04-10 22:58:02,556 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:58:02,579 WARNING:  * Debugger is active!
+2026-04-10 22:58:02,579 INFO:  * Debugger PIN: 911-136-638
+2026-04-10 22:58:03,395 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-10 22:58:03,724 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:58:04,783 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-10 22:58:05,070 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:58:05,606 INFO:  * Detected change in 'c:\\Users\\PMLS\\Carezone\\whatsapp-assistant-python\\email_notifier.py', reloading
+2026-04-10 22:58:05,856 INFO:  * Restarting with stat
+2026-04-10 22:58:07,775 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:58:07,800 WARNING:  * Debugger is active!
+2026-04-10 22:58:07,802 INFO:  * Debugger PIN: 911-136-638
+2026-04-10 22:58:08,556 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-10 22:58:08,901 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:58:09,904 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-10 22:58:10,215 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:58:11,007 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-10 22:58:11,030 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:58:11,950 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-10 22:58:18,040 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:58:18,065 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.48:8080
+2026-04-10 22:58:18,065 INFO: [33mPress CTRL+C to quit[0m
+2026-04-10 22:58:18,065 INFO:  * Restarting with stat
+2026-04-10 22:58:18,920 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-10 22:58:19,275 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:58:19,291 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:58:19,329 WARNING:  * Debugger is active!
+2026-04-10 22:58:19,330 INFO:  * Debugger PIN: 911-136-638
+2026-04-10 22:58:20,245 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-10 22:58:20,267 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-10 22:58:20,571 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:58:20,639 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:58:21,495 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-10 22:58:21,522 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:58:21,533 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-10 22:58:21,883 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:58:22,256 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-10 22:58:22,633 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-10 22:58:22,651 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:58:23,520 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-10 22:58:30,188 INFO: Webhook received: whatsapp_business_account
+2026-04-10 22:58:30,188 INFO: [RECV] Message from 923991234567: Hi, I want to buy something.
+2026-04-10 22:58:30,251 DEBUG: Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2026-04-10 22:58:30,256 DEBUG: Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2026-04-10 22:58:31,044 DEBUG: https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 400 None
+2026-04-10 22:58:31,884 INFO: [AI REPLY]: I'm having a bit of trouble processing that. Can you please repeat?
+2026-04-10 22:58:31,889 DEBUG: Starting new HTTPS connection (1): graph.facebook.com:443
+2026-04-10 22:58:33,144 DEBUG: https://graph.facebook.com:443 "POST /v17.0/1028449583691228/messages HTTP/1.1" 400 220
+2026-04-10 22:58:33,150 INFO: 127.0.0.1 - - [10/Apr/2026 22:58:33] "POST /webhook HTTP/1.1" 200 -
+2026-04-10 22:58:38,180 INFO: Webhook received: whatsapp_business_account
+2026-04-10 22:58:38,180 INFO: [RECV] Message from 923991234567: I need some 'Dragon-X Ultra Vitamin' which is very rare.
+2026-04-10 22:58:38,779 INFO: [AI REPLY]: I'm having a bit of trouble processing that. Can you please repeat?
+2026-04-10 22:58:38,780 DEBUG: Starting new HTTPS connection (1): graph.facebook.com:443
+2026-04-10 22:58:39,656 DEBUG: https://graph.facebook.com:443 "POST /v17.0/1028449583691228/messages HTTP/1.1" 400 218
+2026-04-10 22:58:39,656 INFO: 127.0.0.1 - - [10/Apr/2026 22:58:39] "POST /webhook HTTP/1.1" 200 -
+2026-04-10 22:58:44,684 INFO: Webhook received: whatsapp_business_account
+2026-04-10 22:58:44,684 INFO: [RECV] Message from 923991234567: I want 5 packs.
+2026-04-10 22:58:45,157 INFO: [AI REPLY]: I'm having a bit of trouble processing that. Can you please repeat?
+2026-04-10 22:58:45,162 DEBUG: Starting new HTTPS connection (1): graph.facebook.com:443
+2026-04-10 22:58:46,075 DEBUG: https://graph.facebook.com:443 "POST /v17.0/1028449583691228/messages HTTP/1.1" 400 218
+2026-04-10 22:58:46,079 INFO: 127.0.0.1 - - [10/Apr/2026 22:58:46] "POST /webhook HTTP/1.1" 200 -
+2026-04-10 22:58:51,107 INFO: Webhook received: whatsapp_business_account
+2026-04-10 22:58:51,107 INFO: [RECV] Message from 923991234567: My name is Kazim, Peshawar, Street 5 House 1, phone 03470890549. Please confirm.
+2026-04-10 22:58:51,692 INFO: [AI REPLY]: I'm having a bit of trouble processing that. Can you please repeat?
+2026-04-10 22:58:51,695 DEBUG: Starting new HTTPS connection (1): graph.facebook.com:443
+2026-04-10 22:58:52,601 DEBUG: https://graph.facebook.com:443 "POST /v17.0/1028449583691228/messages HTTP/1.1" 400 218
+2026-04-10 22:58:52,601 INFO: 127.0.0.1 - - [10/Apr/2026 22:58:52] "POST /webhook HTTP/1.1" 200 -
+2026-04-10 22:58:57,633 INFO: Webhook received: whatsapp_business_account
+2026-04-10 22:58:57,633 INFO: [RECV] Message from 923991234567: Yes, confirm it.
+2026-04-10 22:58:58,644 INFO: [AI REPLY]: I'm having a bit of trouble processing that. Can you please repeat?
+2026-04-10 22:58:58,650 DEBUG: Starting new HTTPS connection (1): graph.facebook.com:443
+2026-04-10 22:58:59,541 DEBUG: https://graph.facebook.com:443 "POST /v17.0/1028449583691228/messages HTTP/1.1" 400 218
+2026-04-10 22:58:59,544 INFO: 127.0.0.1 - - [10/Apr/2026 22:58:59] "POST /webhook HTTP/1.1" 200 -
+2026-04-10 22:59:40,859 INFO:  * Detected change in 'c:\\Users\\PMLS\\Carezone\\whatsapp-assistant-python\\app.py', reloading
+2026-04-10 22:59:43,094 INFO:  * Restarting with stat
+2026-04-10 22:59:44,952 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:59:44,975 WARNING:  * Debugger is active!
+2026-04-10 22:59:44,980 INFO:  * Debugger PIN: 911-136-638
+2026-04-10 22:59:45,852 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-10 22:59:46,058 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:59:46,980 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-10 22:59:47,200 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:59:48,000 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-10 22:59:48,015 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 22:59:48,823 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-10 23:00:01,409 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:00:01,437 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.48:8080
+2026-04-10 23:00:01,437 INFO: [33mPress CTRL+C to quit[0m
+2026-04-10 23:00:01,440 INFO:  * Restarting with stat
+2026-04-10 23:00:02,370 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-10 23:00:02,602 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:00:03,015 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:00:03,034 WARNING:  * Debugger is active!
+2026-04-10 23:00:03,039 INFO:  * Debugger PIN: 911-136-638
+2026-04-10 23:00:03,466 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-10 23:00:03,680 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:00:03,894 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-10 23:00:04,087 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:00:04,615 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-10 23:00:04,641 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:00:04,901 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-10 23:00:05,102 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:00:05,452 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-10 23:00:05,862 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-10 23:00:05,884 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:00:06,751 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-10 23:01:07,840 INFO: Webhook received: whatsapp_business_account
+2026-04-10 23:01:07,840 INFO: [RECV] Message from 923991234567: Hi, I want to buy something.
+2026-04-10 23:01:07,891 DEBUG: Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2026-04-10 23:01:07,894 DEBUG: Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2026-04-10 23:01:08,795 DEBUG: https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 400 None
+2026-04-10 23:01:09,719 INFO: [AI REPLY]: I'm having a bit of trouble processing that. Can you please repeat?
+2026-04-10 23:01:09,722 DEBUG: Starting new HTTPS connection (1): graph.facebook.com:443
+2026-04-10 23:01:11,156 DEBUG: https://graph.facebook.com:443 "POST /v17.0/1028449583691228/messages HTTP/1.1" 400 217
+2026-04-10 23:01:11,162 INFO: 127.0.0.1 - - [10/Apr/2026 23:01:11] "POST /webhook HTTP/1.1" 200 -
+2026-04-10 23:01:16,175 INFO: Webhook received: whatsapp_business_account
+2026-04-10 23:01:16,175 INFO: [RECV] Message from 923991234567: I need some 'Dragon-X Ultra Vitamin' which is very rare.
+2026-04-10 23:01:16,783 INFO: [AI REPLY]: I'm having a bit of trouble processing that. Can you please repeat?
+2026-04-10 23:01:16,787 DEBUG: Starting new HTTPS connection (1): graph.facebook.com:443
+2026-04-10 23:01:18,256 DEBUG: https://graph.facebook.com:443 "POST /v17.0/1028449583691228/messages HTTP/1.1" 400 220
+2026-04-10 23:01:18,256 INFO: 127.0.0.1 - - [10/Apr/2026 23:01:18] "POST /webhook HTTP/1.1" 200 -
+2026-04-10 23:01:23,265 INFO: Webhook received: whatsapp_business_account
+2026-04-10 23:01:23,265 INFO: [RECV] Message from 923991234567: I want 5 packs.
+2026-04-10 23:01:23,770 INFO: [AI REPLY]: I'm having a bit of trouble processing that. Can you please repeat?
+2026-04-10 23:01:23,772 DEBUG: Starting new HTTPS connection (1): graph.facebook.com:443
+2026-04-10 23:01:24,867 DEBUG: https://graph.facebook.com:443 "POST /v17.0/1028449583691228/messages HTTP/1.1" 400 216
+2026-04-10 23:01:24,873 INFO: 127.0.0.1 - - [10/Apr/2026 23:01:24] "POST /webhook HTTP/1.1" 200 -
+2026-04-10 23:01:29,895 INFO: Webhook received: whatsapp_business_account
+2026-04-10 23:01:29,895 INFO: [RECV] Message from 923991234567: My name is Kazim, Peshawar, Street 5 House 1, phone 03470890549. Please confirm.
+2026-04-10 23:01:30,476 INFO: [AI REPLY]: I'm having a bit of trouble processing that. Can you please repeat?
+2026-04-10 23:01:30,479 DEBUG: Starting new HTTPS connection (1): graph.facebook.com:443
+2026-04-10 23:01:31,734 DEBUG: https://graph.facebook.com:443 "POST /v17.0/1028449583691228/messages HTTP/1.1" 400 218
+2026-04-10 23:01:31,739 INFO: 127.0.0.1 - - [10/Apr/2026 23:01:31] "POST /webhook HTTP/1.1" 200 -
+2026-04-10 23:01:36,757 INFO: Webhook received: whatsapp_business_account
+2026-04-10 23:01:36,757 INFO: [RECV] Message from 923991234567: Yes, confirm it.
+2026-04-10 23:01:37,471 INFO: [AI REPLY]: I'm having a bit of trouble processing that. Can you please repeat?
+2026-04-10 23:01:37,472 DEBUG: Starting new HTTPS connection (1): graph.facebook.com:443
+2026-04-10 23:01:38,306 DEBUG: https://graph.facebook.com:443 "POST /v17.0/1028449583691228/messages HTTP/1.1" 400 220
+2026-04-10 23:01:38,306 INFO: 127.0.0.1 - - [10/Apr/2026 23:01:38] "POST /webhook HTTP/1.1" 200 -
+2026-04-10 23:01:59,829 INFO:  * Detected change in 'c:\\Users\\PMLS\\Carezone\\whatsapp-assistant-python\\app.py', reloading
+2026-04-10 23:02:02,084 INFO:  * Restarting with stat
+2026-04-10 23:02:03,807 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:02:03,839 WARNING:  * Debugger is active!
+2026-04-10 23:02:03,841 INFO:  * Debugger PIN: 911-136-638
+2026-04-10 23:02:04,657 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-10 23:02:04,983 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:02:05,759 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-10 23:02:06,075 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:02:07,006 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-10 23:02:07,024 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:02:07,879 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-10 23:02:11,276 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:02:11,312 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.48:8080
+2026-04-10 23:02:11,312 INFO: [33mPress CTRL+C to quit[0m
+2026-04-10 23:02:11,315 INFO:  * Restarting with stat
+2026-04-10 23:02:12,189 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-10 23:02:12,491 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:02:12,905 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:02:12,933 WARNING:  * Debugger is active!
+2026-04-10 23:02:12,940 INFO:  * Debugger PIN: 911-136-638
+2026-04-10 23:02:13,312 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-10 23:02:13,588 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:02:13,737 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-10 23:02:14,029 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:02:14,471 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-10 23:02:14,489 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:02:14,850 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-10 23:02:15,138 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:02:15,315 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-10 23:02:16,080 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-10 23:02:16,098 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:02:16,891 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-10 23:02:22,524 INFO: Webhook received: whatsapp_business_account
+2026-04-10 23:02:22,524 INFO: [RECV] Message from 923991234567: Hi, I want to buy something.
+2026-04-10 23:02:22,583 DEBUG: Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2026-04-10 23:02:22,587 DEBUG: Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2026-04-10 23:02:23,546 DEBUG: https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 400 None
+2026-04-10 23:02:24,349 ERROR: AI Generation Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+Please retry in 55.348703969s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 55
+}
+]
+Traceback (most recent call last):
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\grpc_helpers.py", line 55, in error_remapped_callable
+    return callable_(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_interceptor.py", line 276, in __call__
+    response, ignored_call = self._with_call(
+                             ^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_interceptor.py", line 328, in _with_call
+    call = self._interceptor.intercept_unary_unary(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\transports\grpc.py", line 88, in intercept_unary_unary
+    result = response.result()
+             ^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_channel.py", line 438, in result
+    raise self
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_interceptor.py", line 314, in continuation
+    response, call = self._thunk(new_method).with_call(
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_channel.py", line 1173, in with_call
+    return _end_unary_response_blocking(state, call, True, None)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_channel.py", line 990, in _end_unary_response_blocking
+    raise _InactiveRpcError(state)  # pytype: disable=not-instantiable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+grpc._channel._InactiveRpcError: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.RESOURCE_EXHAUSTED
+	details = "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+Please retry in 55.348703969s."
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:142.250.202.138:443 {grpc_message:"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 55.348703969s.", grpc_status:8}"
+>
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\PMLS\Carezone\whatsapp-assistant-python\app.py", line 216, in generate_ai_response
+    response = chat.send_message(full_prompt)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\generativeai\generative_models.py", line 578, in send_message
+    response = self.model.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\generativeai\generative_models.py", line 331, in generate_content
+    response = self._client.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 835, in generate_content
+    response = rpc(
+               ^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\gapic_v1\method.py", line 128, in __call__
+    return wrapped_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+           ^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+                 ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_base.py", line 216, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+             ^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\grpc_helpers.py", line 57, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+Please retry in 55.348703969s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 55
+}
+]
+
+2026-04-10 23:02:24,351 INFO: [AI REPLY]: I'm having a bit of trouble processing that. Can you please repeat?
+2026-04-10 23:02:24,353 DEBUG: Starting new HTTPS connection (1): graph.facebook.com:443
+2026-04-10 23:02:25,390 DEBUG: https://graph.facebook.com:443 "POST /v17.0/1028449583691228/messages HTTP/1.1" 400 219
+2026-04-10 23:02:25,395 INFO: 127.0.0.1 - - [10/Apr/2026 23:02:25] "POST /webhook HTTP/1.1" 200 -
+2026-04-10 23:02:30,415 INFO: Webhook received: whatsapp_business_account
+2026-04-10 23:02:30,415 INFO: [RECV] Message from 923991234567: I need some 'Dragon-X Ultra Vitamin' which is very rare.
+2026-04-10 23:02:30,944 ERROR: AI Generation Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 48.745390824s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 48
+}
+]
+Traceback (most recent call last):
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\grpc_helpers.py", line 55, in error_remapped_callable
+    return callable_(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_interceptor.py", line 276, in __call__
+    response, ignored_call = self._with_call(
+                             ^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_interceptor.py", line 328, in _with_call
+    call = self._interceptor.intercept_unary_unary(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\transports\grpc.py", line 88, in intercept_unary_unary
+    result = response.result()
+             ^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_channel.py", line 438, in result
+    raise self
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_interceptor.py", line 314, in continuation
+    response, call = self._thunk(new_method).with_call(
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_channel.py", line 1173, in with_call
+    return _end_unary_response_blocking(state, call, True, None)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_channel.py", line 990, in _end_unary_response_blocking
+    raise _InactiveRpcError(state)  # pytype: disable=not-instantiable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+grpc._channel._InactiveRpcError: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.RESOURCE_EXHAUSTED
+	details = "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 48.745390824s."
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:142.250.202.138:443 {grpc_status:8, grpc_message:"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\nPlease retry in 48.745390824s."}"
+>
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\PMLS\Carezone\whatsapp-assistant-python\app.py", line 216, in generate_ai_response
+    response = chat.send_message(full_prompt)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\generativeai\generative_models.py", line 578, in send_message
+    response = self.model.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\generativeai\generative_models.py", line 331, in generate_content
+    response = self._client.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 835, in generate_content
+    response = rpc(
+               ^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\gapic_v1\method.py", line 128, in __call__
+    return wrapped_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+           ^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+                 ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_base.py", line 216, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+             ^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\grpc_helpers.py", line 57, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 48.745390824s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 48
+}
+]
+
+2026-04-10 23:02:30,944 INFO: [AI REPLY]: I'm having a bit of trouble processing that. Can you please repeat?
+2026-04-10 23:02:30,948 DEBUG: Starting new HTTPS connection (1): graph.facebook.com:443
+2026-04-10 23:02:31,918 DEBUG: https://graph.facebook.com:443 "POST /v17.0/1028449583691228/messages HTTP/1.1" 400 217
+2026-04-10 23:02:31,921 INFO: 127.0.0.1 - - [10/Apr/2026 23:02:31] "POST /webhook HTTP/1.1" 200 -
+2026-04-10 23:02:36,945 INFO: Webhook received: whatsapp_business_account
+2026-04-10 23:02:36,945 INFO: [RECV] Message from 923991234567: I want 5 packs.
+2026-04-10 23:02:37,456 ERROR: AI Generation Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+Please retry in 42.239064011s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 42
+}
+]
+Traceback (most recent call last):
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\grpc_helpers.py", line 55, in error_remapped_callable
+    return callable_(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_interceptor.py", line 276, in __call__
+    response, ignored_call = self._with_call(
+                             ^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_interceptor.py", line 328, in _with_call
+    call = self._interceptor.intercept_unary_unary(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\transports\grpc.py", line 88, in intercept_unary_unary
+    result = response.result()
+             ^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_channel.py", line 438, in result
+    raise self
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_interceptor.py", line 314, in continuation
+    response, call = self._thunk(new_method).with_call(
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_channel.py", line 1173, in with_call
+    return _end_unary_response_blocking(state, call, True, None)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_channel.py", line 990, in _end_unary_response_blocking
+    raise _InactiveRpcError(state)  # pytype: disable=not-instantiable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+grpc._channel._InactiveRpcError: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.RESOURCE_EXHAUSTED
+	details = "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+Please retry in 42.239064011s."
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:142.250.202.138:443 {grpc_status:8, grpc_message:"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 42.239064011s."}"
+>
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\PMLS\Carezone\whatsapp-assistant-python\app.py", line 216, in generate_ai_response
+    response = chat.send_message(full_prompt)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\generativeai\generative_models.py", line 578, in send_message
+    response = self.model.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\generativeai\generative_models.py", line 331, in generate_content
+    response = self._client.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 835, in generate_content
+    response = rpc(
+               ^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\gapic_v1\method.py", line 128, in __call__
+    return wrapped_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+           ^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+                 ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_base.py", line 216, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+             ^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\grpc_helpers.py", line 57, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+Please retry in 42.239064011s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 42
+}
+]
+
+2026-04-10 23:02:37,456 INFO: [AI REPLY]: I'm having a bit of trouble processing that. Can you please repeat?
+2026-04-10 23:02:37,456 DEBUG: Starting new HTTPS connection (1): graph.facebook.com:443
+2026-04-10 23:02:38,295 DEBUG: https://graph.facebook.com:443 "POST /v17.0/1028449583691228/messages HTTP/1.1" 400 217
+2026-04-10 23:02:38,300 INFO: 127.0.0.1 - - [10/Apr/2026 23:02:38] "POST /webhook HTTP/1.1" 200 -
+2026-04-10 23:02:43,323 INFO: Webhook received: whatsapp_business_account
+2026-04-10 23:02:43,323 INFO: [RECV] Message from 923991234567: My name is Kazim, Peshawar, Street 5 House 1, phone 03470890549. Please confirm.
+2026-04-10 23:02:43,806 ERROR: AI Generation Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+Please retry in 35.887590016s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 35
+}
+]
+Traceback (most recent call last):
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\grpc_helpers.py", line 55, in error_remapped_callable
+    return callable_(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_interceptor.py", line 276, in __call__
+    response, ignored_call = self._with_call(
+                             ^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_interceptor.py", line 328, in _with_call
+    call = self._interceptor.intercept_unary_unary(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\transports\grpc.py", line 88, in intercept_unary_unary
+    result = response.result()
+             ^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_channel.py", line 438, in result
+    raise self
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_interceptor.py", line 314, in continuation
+    response, call = self._thunk(new_method).with_call(
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_channel.py", line 1173, in with_call
+    return _end_unary_response_blocking(state, call, True, None)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_channel.py", line 990, in _end_unary_response_blocking
+    raise _InactiveRpcError(state)  # pytype: disable=not-instantiable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+grpc._channel._InactiveRpcError: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.RESOURCE_EXHAUSTED
+	details = "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+Please retry in 35.887590016s."
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:142.250.202.138:443 {grpc_message:"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 35.887590016s.", grpc_status:8}"
+>
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\PMLS\Carezone\whatsapp-assistant-python\app.py", line 216, in generate_ai_response
+    response = chat.send_message(full_prompt)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\generativeai\generative_models.py", line 578, in send_message
+    response = self.model.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\generativeai\generative_models.py", line 331, in generate_content
+    response = self._client.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 835, in generate_content
+    response = rpc(
+               ^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\gapic_v1\method.py", line 128, in __call__
+    return wrapped_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+           ^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+                 ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_base.py", line 216, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+             ^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\grpc_helpers.py", line 57, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+Please retry in 35.887590016s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 35
+}
+]
+
+2026-04-10 23:02:43,806 INFO: [AI REPLY]: I'm having a bit of trouble processing that. Can you please repeat?
+2026-04-10 23:02:43,812 DEBUG: Starting new HTTPS connection (1): graph.facebook.com:443
+2026-04-10 23:02:44,673 DEBUG: https://graph.facebook.com:443 "POST /v17.0/1028449583691228/messages HTTP/1.1" 400 217
+2026-04-10 23:02:44,679 INFO: 127.0.0.1 - - [10/Apr/2026 23:02:44] "POST /webhook HTTP/1.1" 200 -
+2026-04-10 23:02:49,695 INFO: Webhook received: whatsapp_business_account
+2026-04-10 23:02:49,695 INFO: [RECV] Message from 923991234567: Yes, confirm it.
+2026-04-10 23:02:50,172 ERROR: AI Generation Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 29.523220007s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 29
+}
+]
+Traceback (most recent call last):
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\grpc_helpers.py", line 55, in error_remapped_callable
+    return callable_(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_interceptor.py", line 276, in __call__
+    response, ignored_call = self._with_call(
+                             ^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_interceptor.py", line 328, in _with_call
+    call = self._interceptor.intercept_unary_unary(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\transports\grpc.py", line 88, in intercept_unary_unary
+    result = response.result()
+             ^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_channel.py", line 438, in result
+    raise self
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_interceptor.py", line 314, in continuation
+    response, call = self._thunk(new_method).with_call(
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_channel.py", line 1173, in with_call
+    return _end_unary_response_blocking(state, call, True, None)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\grpc\_channel.py", line 990, in _end_unary_response_blocking
+    raise _InactiveRpcError(state)  # pytype: disable=not-instantiable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+grpc._channel._InactiveRpcError: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.RESOURCE_EXHAUSTED
+	details = "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 29.523220007s."
+	debug_error_string = "UNKNOWN:Error received from peer ipv4:142.250.202.138:443 {grpc_status:8, grpc_message:"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\nPlease retry in 29.523220007s."}"
+>
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\PMLS\Carezone\whatsapp-assistant-python\app.py", line 216, in generate_ai_response
+    response = chat.send_message(full_prompt)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\generativeai\generative_models.py", line 578, in send_message
+    response = self.model.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\generativeai\generative_models.py", line 331, in generate_content
+    response = self._client.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 835, in generate_content
+    response = rpc(
+               ^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\gapic_v1\method.py", line 128, in __call__
+    return wrapped_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+           ^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+                 ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_base.py", line 216, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+             ^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PMLS\AppData\Local\Programs\Python\Python311\Lib\site-packages\google\api_core\grpc_helpers.py", line 57, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 29.523220007s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 29
+}
+]
+
+2026-04-10 23:02:50,174 INFO: [AI REPLY]: I'm having a bit of trouble processing that. Can you please repeat?
+2026-04-10 23:02:50,174 DEBUG: Starting new HTTPS connection (1): graph.facebook.com:443
+2026-04-10 23:02:51,033 DEBUG: https://graph.facebook.com:443 "POST /v17.0/1028449583691228/messages HTTP/1.1" 400 217
+2026-04-10 23:02:51,040 INFO: 127.0.0.1 - - [10/Apr/2026 23:02:51] "POST /webhook HTTP/1.1" 200 -
+2026-04-10 23:03:36,502 INFO:  * Detected change in 'c:\\Users\\PMLS\\Carezone\\whatsapp-assistant-python\\app.py', reloading
+2026-04-10 23:03:38,734 INFO:  * Restarting with stat
+2026-04-10 23:03:40,483 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:03:40,498 WARNING:  * Debugger is active!
+2026-04-10 23:03:40,500 INFO:  * Debugger PIN: 911-136-638
+2026-04-10 23:03:41,401 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-10 23:03:41,625 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:03:42,462 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-10 23:03:42,667 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:03:43,452 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-10 23:03:43,466 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:03:44,388 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-10 23:03:47,507 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:03:47,551 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.48:8080
+2026-04-10 23:03:47,551 INFO: [33mPress CTRL+C to quit[0m
+2026-04-10 23:03:47,551 INFO:  * Restarting with stat
+2026-04-10 23:03:48,338 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-10 23:03:48,556 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:03:49,265 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:03:49,283 WARNING:  * Debugger is active!
+2026-04-10 23:03:49,283 INFO:  * Debugger PIN: 911-136-638
+2026-04-10 23:03:49,462 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-10 23:03:49,700 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:03:50,124 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-10 23:03:50,344 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:03:50,438 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-10 23:03:50,450 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:03:51,202 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-10 23:03:51,341 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-10 23:03:51,474 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:03:52,265 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-10 23:03:52,282 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:03:53,252 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-10 23:03:58,983 INFO: Webhook received: whatsapp_business_account
+2026-04-10 23:03:58,983 INFO: [RECV] Message from 923991234567: Hi, I want to buy something.
+2026-04-10 23:03:59,034 DEBUG: Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2026-04-10 23:03:59,041 DEBUG: Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2026-04-10 23:03:59,988 DEBUG: https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 400 None
+2026-04-10 23:04:04,606 INFO: [AI REPLY]: Hello! Welcome to CareZone.pk. I'd be happy to assist you with your purchase today. 
+
+What would you like to order?
+2026-04-10 23:04:04,608 DEBUG: Starting new HTTPS connection (1): graph.facebook.com:443
+2026-04-10 23:04:05,640 DEBUG: https://graph.facebook.com:443 "POST /v17.0/1028449583691228/messages HTTP/1.1" 400 219
+2026-04-10 23:04:05,645 INFO: 127.0.0.1 - - [10/Apr/2026 23:04:05] "POST /webhook HTTP/1.1" 200 -
+2026-04-10 23:04:10,665 INFO: Webhook received: whatsapp_business_account
+2026-04-10 23:04:10,665 INFO: [RECV] Message from 923991234567: I need some 'Dragon-X Ultra Vitamin' which is very rare.
+2026-04-10 23:04:18,373 INFO: [AI REPLY]: Great! Your order for Dragon-X Ultra Vitamin is being processed. 
+
+How many packs/units would you like to order?
+2026-04-10 23:04:18,374 DEBUG: Starting new HTTPS connection (1): graph.facebook.com:443
+2026-04-10 23:04:19,275 DEBUG: https://graph.facebook.com:443 "POST /v17.0/1028449583691228/messages HTTP/1.1" 400 221
+2026-04-10 23:04:19,275 INFO: 127.0.0.1 - - [10/Apr/2026 23:04:19] "POST /webhook HTTP/1.1" 200 -
+2026-04-10 23:04:24,294 INFO: Webhook received: whatsapp_business_account
+2026-04-10 23:04:24,294 INFO: [RECV] Message from 923991234567: I want 5 packs.
+2026-04-10 23:04:28,273 INFO: [AI REPLY]: I'm checking the latest price for your order of 5 packs of Dragon-X Ultra Vitamin at our warehouse. We can proceed with your details while I confirm. 
+
+Could you please provide your **Full Name**?
+2026-04-10 23:04:28,275 DEBUG: Starting new HTTPS connection (1): graph.facebook.com:443
+2026-04-10 23:04:29,130 DEBUG: https://graph.facebook.com:443 "POST /v17.0/1028449583691228/messages HTTP/1.1" 400 217
+2026-04-10 23:04:29,130 INFO: 127.0.0.1 - - [10/Apr/2026 23:04:29] "POST /webhook HTTP/1.1" 200 -
+2026-04-10 23:04:34,145 INFO: Webhook received: whatsapp_business_account
+2026-04-10 23:04:34,148 INFO: [RECV] Message from 923991234567: My name is Kazim, Peshawar, Street 5 House 1, phone 03470890549. Please confirm.
+2026-04-10 23:04:49,180 INFO: Webhook received: whatsapp_business_account
+2026-04-10 23:04:49,180 INFO: [RECV] Message from 923991234567: Yes, confirm it.
+2026-04-10 23:04:55,139 INFO: [AI REPLY]: Thank you for providing your details, Kazim! I have noted everything down.
+
+**Order Summary:**
+*   **Product:** Dragon-X Ultra Vitamin
+*   **Quantity:** 5 packs
+*   **Total Price:** I'm checking the latest price for this item at our warehouse. We will confirm the total with you shortly.
+*   **Delivery Address:** Street 5, House 1, Peshawar
+*   **Phone Number:** 03470890549
+
+Please confirm if everything is correct so we can place your order.
+2026-04-10 23:04:55,141 DEBUG: Starting new HTTPS connection (1): graph.facebook.com:443
+2026-04-10 23:04:56,023 DEBUG: https://graph.facebook.com:443 "POST /v17.0/1028449583691228/messages HTTP/1.1" 400 216
+2026-04-10 23:04:56,024 INFO: 127.0.0.1 - - [10/Apr/2026 23:04:56] "POST /webhook HTTP/1.1" 200 -
+2026-04-10 23:05:05,433 DEBUG: Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2026-04-10 23:05:05,433 DEBUG: Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2026-04-10 23:05:06,290 DEBUG: https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 400 None
+2026-04-10 23:05:06,306 DEBUG: Starting new HTTPS connection (1): graph.facebook.com:443
+2026-04-10 23:05:06,815 INFO:  * Detected change in 'c:\\Users\\PMLS\\Carezone\\whatsapp-assistant-python\\simulate_order.py', reloading
+2026-04-10 23:05:09,091 INFO:  * Restarting with stat
+2026-04-10 23:05:10,867 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:05:10,890 WARNING:  * Debugger is active!
+2026-04-10 23:05:10,895 INFO:  * Debugger PIN: 911-136-638
+2026-04-10 23:05:11,698 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-10 23:05:12,041 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:05:13,137 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-10 23:05:13,472 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:05:14,265 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-10 23:05:14,281 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:05:15,276 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-10 23:05:18,319 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:05:18,352 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.48:8080
+2026-04-10 23:05:18,352 INFO: [33mPress CTRL+C to quit[0m
+2026-04-10 23:05:18,356 INFO:  * Restarting with stat
+2026-04-10 23:05:19,270 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-10 23:05:19,565 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:05:19,898 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:05:19,929 WARNING:  * Debugger is active!
+2026-04-10 23:05:19,929 INFO:  * Debugger PIN: 911-136-638
+2026-04-10 23:05:20,339 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-10 23:05:20,633 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:05:20,819 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-10 23:05:21,140 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:05:21,498 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-10 23:05:21,512 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:05:21,956 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-10 23:05:22,287 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:05:22,372 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-10 23:05:23,230 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-10 23:05:23,256 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-10 23:05:24,295 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-10 23:05:29,074 INFO: Webhook received: whatsapp_business_account
+2026-04-10 23:05:29,074 INFO: [RECV] Message from 923991234567: Hi, I want to buy something.
+2026-04-10 23:05:29,125 DEBUG: Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2026-04-10 23:05:29,130 DEBUG: Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2026-04-10 23:05:29,941 DEBUG: https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 400 None
+2026-04-10 23:05:33,775 INFO: [AI REPLY]: Hello! Welcome to CareZone.pk. I'm here to help you with your order today. 
+
+What medicine or product would you like to purchase?
+2026-04-10 23:05:33,775 DEBUG: Starting new HTTPS connection (1): graph.facebook.com:443
+2026-04-10 23:05:35,141 DEBUG: https://graph.facebook.com:443 "POST /v17.0/1028449583691228/messages HTTP/1.1" 400 216
+2026-04-10 23:05:35,145 INFO: 127.0.0.1 - - [10/Apr/2026 23:05:35] "POST /webhook HTTP/1.1" 200 -
+2026-04-10 23:05:40,167 INFO: Webhook received: whatsapp_business_account
+2026-04-10 23:05:40,167 INFO: [RECV] Message from 923991234567: I need some 'Dragon-X Ultra Vitamin' which is very rare.
+2026-04-10 23:05:43,229 INFO: [AI REPLY]: Great! Your order for Dragon-X Ultra Vitamin is being processed. 
+
+How many packs/units would you like to order?
+2026-04-10 23:05:43,233 DEBUG: Starting new HTTPS connection (1): graph.facebook.com:443
+2026-04-10 23:05:44,083 DEBUG: https://graph.facebook.com:443 "POST /v17.0/1028449583691228/messages HTTP/1.1" 400 220
+2026-04-10 23:05:44,083 INFO: 127.0.0.1 - - [10/Apr/2026 23:05:44] "POST /webhook HTTP/1.1" 200 -
+2026-04-10 23:05:49,098 INFO: Webhook received: whatsapp_business_account
+2026-04-10 23:05:49,098 INFO: [RECV] Message from 923991234567: I want 5 packs.
+2026-04-10 23:05:53,356 INFO: [AI REPLY]: I'm checking the latest price for this item at our warehouse. We can proceed with your details while I confirm.
+
+To get started, could you please provide your full name?
+2026-04-10 23:05:53,362 DEBUG: Starting new HTTPS connection (1): graph.facebook.com:443
+2026-04-10 23:05:54,272 DEBUG: https://graph.facebook.com:443 "POST /v17.0/1028449583691228/messages HTTP/1.1" 400 221
+2026-04-10 23:05:54,279 INFO: 127.0.0.1 - - [10/Apr/2026 23:05:54] "POST /webhook HTTP/1.1" 200 -
+2026-04-10 23:05:59,306 INFO: Webhook received: whatsapp_business_account
+2026-04-10 23:05:59,306 INFO: [RECV] Message from 923991234567: My name is Kazim, Peshawar, Street 5 House 1, phone 03470890549. Please confirm.
+2026-04-10 23:06:06,615 INFO: [AI REPLY]: Thank you for providing your details, Kazim! I have noted everything down.
+
+Here is a summary of your order:
+
+*   **Product:** Dragon-X Ultra Vitamin
+*   **Quantity:** 5 packs
+*   **Total Price:** I'm checking the latest price for this item at our warehouse and will confirm the total with you shortly.
+*   **Name:** Kazim
+*   **Phone Number:** 03470890549
+*   **City:** Peshawar
+*   **Delivery Address:** Street 5 House 1, Peshawar
+
+Please confirm if everything is correct so we can place your order.
+2026-04-10 23:06:06,615 DEBUG: Starting new HTTPS connection (1): graph.facebook.com:443
+2026-04-10 23:06:08,006 DEBUG: https://graph.facebook.com:443 "POST /v17.0/1028449583691228/messages HTTP/1.1" 400 217
+2026-04-10 23:06:08,015 INFO: 127.0.0.1 - - [10/Apr/2026 23:06:08] "POST /webhook HTTP/1.1" 200 -
+2026-04-10 23:06:13,034 INFO: Webhook received: whatsapp_business_account
+2026-04-10 23:06:13,034 INFO: [RECV] Message from 923991234567: Yes, confirm it.
+2026-04-10 23:06:18,652 DEBUG: Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2026-04-10 23:06:18,658 DEBUG: Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2026-04-10 23:06:19,683 DEBUG: https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 400 None
+2026-04-10 23:06:19,690 DEBUG: Starting new HTTPS connection (1): graph.facebook.com:443
+2026-04-10 23:06:20,779 DEBUG: https://graph.facebook.com:443 "POST /v17.0/1028449583691228/messages HTTP/1.1" 200 179
+2026-04-10 23:06:20,783 INFO: [AI REPLY]: Thank you, Kazim! Your order for 5 packs of Dragon-X Ultra Vitamin has been confirmed and is now being processed. 
+
+Our team will contact you shortly regarding the price confirmation from our warehouse and to coordinate the delivery to Street 5 House 1, Peshawar. We appreciate you choosing CareZone.pk!
+2026-04-10 23:06:20,784 DEBUG: Starting new HTTPS connection (1): graph.facebook.com:443
+2026-04-10 23:06:22,141 DEBUG: https://graph.facebook.com:443 "POST /v17.0/1028449583691228/messages HTTP/1.1" 400 216
+2026-04-10 23:06:22,144 INFO: 127.0.0.1 - - [10/Apr/2026 23:06:22] "POST /webhook HTTP/1.1" 200 -
+2026-04-11 00:05:22,434 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 00:05:24,321 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 00:05:24,998 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-11 00:05:25,298 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 00:05:25,380 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-11 00:05:25,697 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 00:05:27,090 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-11 00:05:27,146 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-11 00:05:27,464 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 00:05:27,469 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 00:05:28,796 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-11 00:05:28,812 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 00:05:29,001 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-11 00:05:29,016 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 00:05:30,439 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-11 00:05:30,439 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-11 10:44:10,310 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 10:44:10,389 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.48:8080
+2026-04-11 10:44:10,389 INFO: [33mPress CTRL+C to quit[0m
+2026-04-11 10:44:10,389 INFO:  * Restarting with stat
+2026-04-11 10:44:12,004 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-11 10:44:12,097 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 10:44:12,114 WARNING:  * Debugger is active!
+2026-04-11 10:44:12,114 INFO:  * Debugger PIN: 911-136-638
+2026-04-11 10:44:12,369 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 10:44:12,995 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-11 10:44:13,350 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 10:44:13,919 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-11 10:44:14,179 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-11 10:44:14,236 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 10:44:14,512 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 10:44:15,330 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-11 10:44:15,338 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-11 10:44:15,347 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 10:44:15,362 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 10:44:16,354 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-11 10:44:16,354 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-11 11:30:59,490 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 11:30:59,517 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.48:8080
+2026-04-11 11:30:59,517 INFO: [33mPress CTRL+C to quit[0m
+2026-04-11 11:30:59,519 INFO:  * Restarting with stat
+2026-04-11 11:31:01,125 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-11 11:31:01,182 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 11:31:01,204 WARNING:  * Debugger is active!
+2026-04-11 11:31:01,208 INFO:  * Debugger PIN: 911-136-638
+2026-04-11 11:31:01,332 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 11:31:02,095 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-11 11:31:02,304 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 11:31:02,800 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-11 11:31:03,097 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 11:31:03,155 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-11 11:31:03,395 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 11:31:04,297 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-11 11:31:04,307 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 11:31:04,307 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 11:31:05,554 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-11 11:31:05,782 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-11 12:58:06,375 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 12:58:06,547 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 12:58:08,361 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-11 12:58:08,569 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-11 12:58:08,700 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 12:58:08,982 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 12:58:10,500 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-11 12:58:10,512 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-11 12:58:10,838 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 12:58:10,854 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 12:58:12,150 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-11 12:58:12,163 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-11 12:58:12,173 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 12:58:12,188 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 12:58:13,384 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-11 12:58:13,394 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-11 13:21:05,505 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 13:21:05,572 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.48:8080
+2026-04-11 13:21:05,572 INFO: [33mPress CTRL+C to quit[0m
+2026-04-11 13:21:05,575 INFO:  * Restarting with stat
+2026-04-11 13:21:06,365 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-11 13:21:06,491 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 13:21:06,506 WARNING:  * Debugger is active!
+2026-04-11 13:21:06,513 INFO:  * Debugger PIN: 911-136-638
+2026-04-11 13:21:06,565 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 13:21:07,208 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-11 13:21:07,400 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 13:21:07,415 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-11 13:21:07,585 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 13:21:08,064 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-11 13:21:08,231 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-11 13:21:08,244 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 13:21:08,258 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 13:21:08,975 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-11 13:21:08,994 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 13:21:09,000 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-11 13:21:09,691 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-11 13:51:49,638 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 13:51:49,688 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.48:8080
+2026-04-11 13:51:49,688 INFO: [33mPress CTRL+C to quit[0m
+2026-04-11 13:51:49,688 INFO:  * Restarting with stat
+2026-04-11 13:51:50,430 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 13:51:50,439 WARNING:  * Debugger is active!
+2026-04-11 13:51:50,442 INFO:  * Debugger PIN: 911-136-638
+2026-04-11 13:51:50,804 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-11 13:51:51,069 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-11 13:51:51,126 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 13:51:51,350 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 13:51:52,069 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-11 13:51:52,124 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-11 13:51:52,417 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 13:51:52,430 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 13:51:53,197 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-11 13:51:53,223 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 13:51:53,238 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-11 13:51:53,254 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 13:51:53,955 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-11 13:51:53,963 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-11 14:51:54,064 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 14:51:54,100 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 14:51:55,838 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-11 14:51:55,842 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-11 14:51:56,025 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 14:51:56,034 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 14:51:57,455 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-11 14:51:57,465 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-11 14:51:57,700 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 14:51:57,700 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 14:51:58,807 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-11 14:51:58,811 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-11 14:51:58,833 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 14:51:58,835 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 14:51:59,867 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-11 14:51:59,875 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-11 15:51:59,993 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 15:52:00,004 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 15:52:01,807 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-11 15:52:01,854 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-11 15:52:02,013 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 15:52:02,062 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 15:52:03,388 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-11 15:52:03,595 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-11 15:52:03,904 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 15:52:04,075 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 15:52:04,876 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-11 15:52:04,889 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 15:52:05,324 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-11 15:52:05,354 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 15:52:05,784 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-11 15:52:06,254 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-11 18:59:00,557 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 18:59:00,989 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 18:59:02,350 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-11 18:59:02,354 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-11 18:59:02,697 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 18:59:02,747 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 18:59:04,501 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-11 18:59:04,535 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-11 18:59:04,832 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 18:59:04,912 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 18:59:06,075 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-11 18:59:06,095 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 18:59:06,114 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-11 18:59:06,149 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 18:59:07,097 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-11 18:59:07,263 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-11 19:03:56,754 INFO:  * Detected change in 'C:\\Users\\PMLS\\Carezone\\whatsapp-assistant-python\\list_models.py', reloading
+2026-04-11 19:03:57,908 INFO:  * Restarting with stat
+2026-04-11 19:04:03,475 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 19:04:03,523 WARNING:  * Debugger is active!
+2026-04-11 19:04:03,535 INFO:  * Debugger PIN: 911-136-638
+2026-04-11 19:04:05,147 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-11 19:04:05,600 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 19:04:07,601 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-11 19:04:07,923 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 19:04:09,849 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-11 19:04:09,863 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 19:04:11,619 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-11 19:05:22,325 INFO:  * Detected change in 'C:\\Users\\PMLS\\Carezone\\whatsapp-assistant-python\\app.py', reloading
+2026-04-11 19:05:22,910 INFO:  * Restarting with stat
+2026-04-11 19:05:26,169 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 19:05:26,211 WARNING:  * Debugger is active!
+2026-04-11 19:05:26,215 INFO:  * Debugger PIN: 911-136-638
+2026-04-11 19:05:27,263 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-11 19:05:27,458 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 19:05:30,451 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-11 19:05:30,708 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 19:05:32,275 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 503 None
+2026-04-11 19:07:01,934 INFO:  * Detected change in 'C:\\Users\\PMLS\\Carezone\\whatsapp-assistant-python\\app.py', reloading
+2026-04-11 19:07:02,177 INFO:  * Restarting with stat
+2026-04-11 19:07:03,938 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 19:07:03,975 WARNING:  * Debugger is active!
+2026-04-11 19:07:03,979 INFO:  * Debugger PIN: 911-136-638
+2026-04-11 19:07:04,775 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-11 19:07:05,080 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 19:07:06,013 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-11 19:07:06,404 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 19:07:07,463 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-11 19:07:07,483 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 19:07:08,347 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-11 19:07:38,212 INFO:  * Detected change in 'C:\\Users\\PMLS\\Carezone\\whatsapp-assistant-python\\test_whatsapp.py', reloading
+2026-04-11 19:07:38,469 INFO:  * Restarting with stat
+2026-04-11 19:07:40,086 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 19:07:40,108 WARNING:  * Debugger is active!
+2026-04-11 19:07:40,113 INFO:  * Debugger PIN: 911-136-638
+2026-04-11 19:07:40,847 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 503 None
+2026-04-11 20:03:42,504 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 20:03:44,154 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-11 20:03:44,444 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 20:03:45,732 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-11 20:03:46,013 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 20:03:47,323 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-11 20:03:47,350 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 20:03:48,311 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-11 20:17:46,055 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 20:17:46,088 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.48:8080
+2026-04-11 20:17:46,088 INFO: [33mPress CTRL+C to quit[0m
+2026-04-11 20:17:46,088 INFO:  * Restarting with stat
+2026-04-11 20:17:47,475 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 20:17:47,488 WARNING:  * Debugger is active!
+2026-04-11 20:17:47,488 INFO:  * Debugger PIN: 911-136-638
+2026-04-11 20:17:47,551 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-11 20:17:47,858 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 20:17:48,297 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=1 HTTP/1.1" 200 None
+2026-04-11 20:17:48,612 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 20:17:49,206 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-11 20:17:49,525 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 20:17:49,558 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=2 HTTP/1.1" 200 None
+2026-04-11 20:17:49,873 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 20:17:50,455 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-11 20:17:50,472 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 20:17:50,636 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=3 HTTP/1.1" 200 None
+2026-04-11 20:17:50,664 DEBUG: Starting new HTTPS connection (1): carezone.pk:443
+2026-04-11 20:17:51,407 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
+2026-04-11 20:17:51,623 DEBUG: https://carezone.pk:443 "GET /products.json?limit=250&page=4 HTTP/1.1" 200 None
