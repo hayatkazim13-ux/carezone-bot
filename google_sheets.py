@@ -19,9 +19,25 @@ def get_sheets_client():
     env_creds = os.getenv("GOOGLE_CREDENTIALS")
     if env_creds:
         try:
-            # Handle potential literal newlines or escaped newlines in the string
-            sanitized_creds = env_creds.strip()
-            # If the user pasted it with literal newlines, we need to ensure it's valid JSON
+            import base64
+            sanitized_creds = env_creds.strip().replace('"', '').replace("'", "")
+            print(f"GOOGLE_CREDENTIALS detected. Length: {len(sanitized_creds)}")
+            
+            # Check if it's Base64 encoded (contains no '{')
+            if '{' not in sanitized_creds:
+                print("Decoding Base64 credentials...")
+                try:
+                    decoded_bytes = base64.b64decode(sanitized_creds)
+                    sanitized_creds = decoded_bytes.decode('utf-8').strip()
+                    print(f"Base64 decoded. New length: {len(sanitized_creds)}")
+                except Exception as b64e:
+                    print(f"Failed to decode Base64 GOOGLE_CREDENTIALS: {b64e}")
+
+            if not sanitized_creds:
+                print("GOOGLE_CREDENTIALS resulted in an empty string!")
+                return None
+
+            # Final check - must be JSON
             creds_dict = json.loads(sanitized_creds, strict=False)
             
             # Ensure the private key has actual newlines, not literal '\n' strings
