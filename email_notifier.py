@@ -6,15 +6,19 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+import threading
+
 def send_email_alert(order_details):
     """
-    Sends an email alert to the admin about a new order.
+    Sends an email alert to the admin about a new order (Non-blocking).
     """
+    threading.Thread(target=_send_email_async, args=(order_details,), daemon=True).start()
+
+def _send_email_async(order_details):
     email = os.getenv("ADMIN_EMAIL")
     password = os.getenv("ADMIN_EMAIL_PASSWORD") # Must be a Gmail App Password
 
     if not email or not password:
-        print("No ADMIN_EMAIL or ADMIN_EMAIL_PASSWORD in .env. Skipping Email notification.")
         return
 
     try:
@@ -46,8 +50,11 @@ A new row has also been securely logged to your Google Sheet!
 
 def send_error_alert(error_message):
     """
-    Sends an error alert to the admin.
+    Sends an error alert to the admin (Non-blocking).
     """
+    threading.Thread(target=_send_error_async, args=(error_message,), daemon=True).start()
+
+def _send_error_async(error_message):
     email = os.getenv("ADMIN_EMAIL")
     password = os.getenv("ADMIN_EMAIL_PASSWORD")
 
