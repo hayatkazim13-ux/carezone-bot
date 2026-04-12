@@ -4,8 +4,7 @@ import requests
 import json
 import threading
 import time
-from google import genai
-from google.genai import types
+from groq import Groq
 from dotenv import load_dotenv
 
 # Import our custom modules
@@ -31,11 +30,9 @@ ACCESS_TOKEN = os.getenv("WHATSAPP_ACCESS_TOKEN")
 VERIFY_TOKEN = os.getenv("WHATSAPP_VERIFY_TOKEN")
 PHONE_NUMBER_ID = os.getenv("WHATSAPP_PHONE_NUMBER_ID")
 ADMIN_PHONE_NUMBER = os.getenv("ADMIN_PHONE_NUMBER")
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-
-# --- INITIALIZE GEMINI ---
-client = genai.Client(api_key=GEMINI_API_KEY)
-GENAI_MODEL = 'gemini-1.5-flash-8b'
+# --- INITIALIZE GROQ ---
+client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+AI_MODEL = 'llama-3.3-70b-versatile'
 
 # --- LIVE PRODUCT CACHE ---
 live_products = []
@@ -53,7 +50,7 @@ def update_product_cache_loop():
 threading.Thread(target=update_product_cache_loop, daemon=True).start()
 
 # --- CHAT MEMORY ---
-# Structure: { 'phoneNumber': [ {'role': 'user'|'model', 'parts': [text]} ] }
+# Structure: { 'phoneNumber': [ {'role': 'user'|'assistant', 'content': text} ] }
 chat_memory = {}
 
 def get_system_instruction():
@@ -176,7 +173,7 @@ def handle_messages():
                             logging.error(f"CRM Logging failed: {e}")
                     
                     # Store as structured part for SDK compatibility
-                    chat_memory[from_number].append({"role": "user", "parts": [{"text": text_body}]})
+                    chat_memory[from_number].append({"role": "user", "content": text_body})
                     
                     # Keep memory concise (last 10 interactions)
                     if len(chat_memory[from_number]) > 10:
@@ -198,44 +195,43 @@ def handle_messages():
 
 def generate_ai_response(from_number):
     try:
-        # Create chat history for Gemini
+        # Create chat history for Groq
         history = chat_memory[from_number][:-1] # All but the latest user msg
 
         # Prepend system instruction
         system_instructions = get_system_instruction()
         
-        # User message
-        user_msg_text = chat_memory[from_number][-1]['parts'][0]['text']
+        # Build messages for Groq API
+        messages = [{"role": "system", "content": system_instructions}]
+        messages.extend(history)
         
-        # In google-genai, we use client.models.generate_content
-        # We can pass history and system instruction in the config
-        response = client.models.generate_content(
-            model=GENAI_MODEL,
-            config=types.GenerateContentConfig(
-                system_instruction=system_instructions,
-                # We can also pass history if needed, but for simplicity with this SDK,
-                # we can just send the whole prompt or manage chat session
-            ),
-            contents=history + [{"role": "user", "parts": [{"text": user_msg_text}]}]
+        # Add the current user message (last in memory)
+        messages.append(chat_memory[from_number][-1])
+        
+        response = client.chat.completions.create(
+            model=AI_MODEL,
+            messages=messages,
+            temperature=0.7,
+            max_tokens=1024,
         )
         
-        reply = response.text
-
+        reply = response.choices[0].message.content
+ 
         # Handle Triggers
         if "UNAVAILABLE_ORDER_TRIGGER|" in reply:
             process_trigger(reply, "UNAVAILABLE_ORDER_TRIGGER", from_number)
             reply = reply.split("UNAVAILABLE_ORDER_TRIGGER|")[0].strip()
             if not reply:
                 reply = "Excellent! Your order has been securely placed. We will source it and notify you once it's ready."
-
+ 
         elif "ORDER_PLACED_TRIGGER|" in reply:
             process_trigger(reply, "ORDER_PLACED_TRIGGER", from_number)
             reply = reply.split("ORDER_PLACED_TRIGGER|")[0].strip()
             if not reply:
                 reply = "Thanks for your purchase! Your order has been securely placed."
-
+ 
         # Add model reply to memory
-        chat_memory[from_number].append({"role": "model", "parts": [{"text": reply}]})
+        chat_memory[from_number].append({"role": "assistant", "content": reply})
         return reply
 
     except Exception as e:
