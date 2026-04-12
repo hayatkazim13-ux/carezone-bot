@@ -35,7 +35,7 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 # --- INITIALIZE GEMINI ---
 client = genai.Client(api_key=GEMINI_API_KEY)
-GENAI_MODEL = 'gemini-2.0-flash'
+GENAI_MODEL = 'gemini-1.5-flash-8b'
 
 # --- LIVE PRODUCT CACHE ---
 live_products = []
