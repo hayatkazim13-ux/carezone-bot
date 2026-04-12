@@ -42,6 +42,7 @@ def get_sheets_client():
             creds_data['private_key'] = creds_data['private_key'].replace('\\n', '\n').strip()
             
         creds = ServiceAccountCredentials.from_json_keyfile_dict(creds_data, scope)
+        print("✅ Successfully authenticated with Google Sheets using local credentials.json")
         return gspread.authorize(creds)
     except Exception as e:
         print(f"Failed to authenticate with Google Sheets: {e}")

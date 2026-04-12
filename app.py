@@ -239,8 +239,9 @@ def generate_ai_response(from_number):
         return reply
 
     except Exception as e:
-        error_msg = f"AI Generation Error: {e}\n{traceback.format_exc()}"
-        logging.error(error_msg)
+        error_msg = f"AI Generation Error: {e}"
+        print(f"--- CRITICAL AI ERROR ---\n{error_msg}\n{traceback.format_exc()}\n------------------------")
+        logging.error(f"{error_msg}\n{traceback.format_exc()}")
         send_error_alert(error_msg)
         return "I'm having a bit of trouble processing that. Can you please repeat?"
 
