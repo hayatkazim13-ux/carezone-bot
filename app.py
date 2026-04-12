@@ -54,6 +54,16 @@ threading.Thread(target=update_product_cache_loop, daemon=True).start()
 chat_memory = {}
 
 def get_system_instruction():
+    # Minify the product list to save tokens and prevent "Request too large" errors
+    # We only send Title and Price, which are the most important for sales.
+    minified_catalog = []
+    for p in live_products:
+        title = p.get('title', 'Unknown Product')
+        price = p.get('price', 'N/A')
+        minified_catalog.append(f"{title}: Rs. {price}")
+    
+    catalog_str = "\n".join(minified_catalog[:400]) # Limit to 400 items to be safe
+
     return f"""
 Role: You are a smart, polite, and sales-focused customer service agent for CareZone.pk (a medical company in Peshawar). Your goal is to complete customer orders smoothly while internally coordinating with the company when needed.
 
@@ -125,7 +135,7 @@ Scenario A (Missing Item): UNAVAILABLE_ORDER_TRIGGER|[Product]|[Quantity]|[Name]
 Scenario B (In-Stock >= 1000): ORDER_PLACED_TRIGGER|[Product]|[Quantity]|[Price]|[Name]|[Phone]|[City + Address]
 
 Live Catalogue:
-{json.dumps(live_products, indent=2)}
+{catalog_str}
 """
 
 @app.route("/", methods=["GET"])

@@ -10,43 +10,39 @@ load_dotenv()
 
 def get_sheets_client():
     """
-    Authenticates with Google Sheets using service account credentials.
-    Supports either a JSON file or an environment variable.
+    Authenticates with Google Sheets using local service account credentials.json.
     """
     scope = ['https://spreadsheets.google.com/feeds', 'https://www.googleapis.com/auth/drive']
     
-    # 1. Try environment variable (for Cloud deployment like Render/Railway)
+    # Prioritize the local file (since we've committed it to the repo)
+    try:
+        if os.path.exists('credentials.json'):
+            with open('credentials.json', 'r') as f:
+                creds_data = json.load(f)
+            
+            if 'private_key' in creds_data:
+                creds_data['private_key'] = creds_data['private_key'].replace('\\n', '\n').strip()
+                
+            creds = ServiceAccountCredentials.from_json_keyfile_dict(creds_data, scope)
+            # Only print on first successful connection or keep silent
+            return gspread.authorize(creds)
+    except Exception as e:
+        print(f"File authentication failed: {e}")
+
+    # Fallback to env var (only if file missing)
     env_creds = os.getenv("GOOGLE_CREDENTIALS")
     if env_creds:
         try:
             sanitized_creds = env_creds.strip()
-            # If the user pasted it with literal newlines, we need to ensure it's valid JSON
             creds_dict = json.loads(sanitized_creds, strict=False)
-            
-            # Ensure the private key has actual newlines, not literal '\n' strings
             if 'private_key' in creds_dict:
                 creds_dict['private_key'] = creds_dict['private_key'].replace('\\n', '\n')
-                
             creds = ServiceAccountCredentials.from_json_keyfile_dict(creds_dict, scope)
             return gspread.authorize(creds)
         except Exception as e:
-            print(f"Error parsing GOOGLE_CREDENTIALS env var: {e}")
-
-    # 2. Fallback to local credentials.json file
-    try:
-        with open('credentials.json', 'r') as f:
-            creds_data = json.load(f)
-        
-        # Scrub private key (Fix for common formatting/newline issues)
-        if 'private_key' in creds_data:
-            creds_data['private_key'] = creds_data['private_key'].replace('\\n', '\n').strip()
+            pass # Keep it silent to reduce log noise
             
-        creds = ServiceAccountCredentials.from_json_keyfile_dict(creds_data, scope)
-        print("✅ Successfully authenticated with Google Sheets using local credentials.json")
-        return gspread.authorize(creds)
-    except Exception as e:
-        print(f"Failed to authenticate with Google Sheets: {e}")
-        return None
+    return None
 
 def log_customer(phone_number, name):
     """
