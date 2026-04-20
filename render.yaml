@@ -1,0 +1,27 @@
+services:
+  - type: web
+    name: carezone-python-bot
+    runtime: docker
+    plan: free
+    healthCheckPath: /
+    envVars:
+      - key: GROQ_API_KEY
+        sync: false
+      - key: WHATSAPP_ACCESS_TOKEN
+        sync: false
+      - key: WHATSAPP_VERIFY_TOKEN
+        sync: false
+      - key: WHATSAPP_PHONE_NUMBER_ID
+        sync: false
+      - key: ADMIN_PHONE_NUMBER
+        sync: false
+      - key: SPREADSHEET_ID
+        sync: false
+      - key: ADMIN_EMAIL
+        sync: false
+      - key: ADMIN_EMAIL_PASSWORD
+        sync: false
+      - key: GOOGLE_CREDENTIALS
+        sync: false # Can be the full JSON content or empty if using credentials.json
+      - key: PORT
+        value: 10000
